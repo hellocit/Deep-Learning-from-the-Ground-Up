@@ -4,7 +4,7 @@
 * python is storng. but c++`s process speed is stongest in terms of compile.
 ## パーセプトロン
 * nearly logic circuits.
-* 脳のモデル化の結果として適用可能なアプリケーションも広いし，性能？も良い．
+* 脳のモデル化であるので適用可能なアプリケーションも広いし，性能？も良い．
 ## ニューラルネットワーク
 ## NNの学習
 ## 誤差逆伝播法
