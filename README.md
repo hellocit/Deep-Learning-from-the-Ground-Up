@@ -13,8 +13,7 @@
 ## 畳み込みNN
 ## ディープラーニング
 
-## 書き方References
-# 以下外乱
+## 書き方References&以下外乱
 * https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 * https://qiita.com/do7be/items/d21405a3d243dde37f92
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
