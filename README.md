@@ -1,7 +1,7 @@
 # Pythonを用いてディープラーニングを最低限の外部ライブラリ？のみで作る．
-# 目次
+# 目次（英語適当過ぎて泣ける）
 ## Python入門
-* python is storng.
+* python is storng. but c++`s process speed is stongest in terms of compile.
 ## パーセプトロン
 * nearly logic circuits.
 * 脳のモデル化の結果として適用可能なアプリケーションも広いし，性能？も良い．
