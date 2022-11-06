@@ -1,5 +1,7 @@
 # Pythonを用いてディープラーニングを最低限の外部ライブラリ？のみで作る．
 # 目次（英語適当過ぎて泣ける）
+## まえがき
+魔法の箱として使うのではなく車のボンネットの中身を理解しよう．
 ## Python入門
 * python is storng. but c++`s process speed is stongest in terms of compile.
 ## パーセプトロン
