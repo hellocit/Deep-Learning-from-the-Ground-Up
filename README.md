@@ -16,11 +16,12 @@
 ## ディープラーニング
 ## 参考文献に良さげなやつあり
 * Pythonの勉強用の本
-* 機械学習を学べるオープンな講座
+* 機械学習を学べるオープンな講座＊1
 * その他論文
 * 
 
 ## 書き方&References&以下外乱
+* ＊1 https://cs231n.github.io/
 * https://qiita.com/Qiita/items/c686397e4a0f4f11683d
 * https://qiita.com/do7be/items/d21405a3d243dde37f92
 * https://qiita.com/mozuku_com/items/db430bcb66fd1bbc5c49
