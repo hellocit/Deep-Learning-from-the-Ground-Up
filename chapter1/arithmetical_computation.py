@@ -22,5 +22,5 @@ print(product)
 type(product)
 
 #1.3.4
-a = [1, 2, 3, 4, 5]
+list = [1, 2, 3, 4, 5]
 print(list)
