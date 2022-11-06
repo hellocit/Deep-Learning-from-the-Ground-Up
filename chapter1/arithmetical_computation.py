@@ -25,6 +25,8 @@ type(product)
 list = [1, 2, 3, 4, 5]
 print(list)
 print(len(list))
-list[0]
-list[4]
-list[4]
+print(list[0])
+print(list[4])
+list[4] = 99
+print(list[4])
+print(list)
